@@ -1,5 +1,4 @@
-- 👋 Hi, My name is Vinicio. I'm a brazilian Data Scientist and Python Web Developer in love to this language! Also, I am a Economy university student at the Federal University of Sergipe.
-I adore the simple things of the life, singing, dancing, coding...Well, to be happy! :)
+- 👋 Hello, my name is Vinicio. I am a Brazilian Python Web Developer who loves this language! I'm also a student of Computer Science at the Federal University of Sergipe. I love the simple things in life, singing, dancing, programming... Well, to be happy! :)
 
 
 
