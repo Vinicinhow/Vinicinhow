@@ -1,5 +1,4 @@
-- 👋 Hello, my name is Vinicio. I am a Brazilian Python Web Developer who loves this language! I'm also a student of Computer Science at the Federal University of Sergipe. I love the simple things in life, singing, dancing, programming... Well, to be happy! :)
-
+- 👋 Hello friend, my name is Vinicio, but you can call me "Vini". I'm a brazilian Python Web Developer who loves this language! I am also an Economics student at the Federal University of Sergipe (UFS, in PT-BR). I love the simple things in life, singing, dancing, programming, helping the people around me... Well, being happy! 😀 
 
 
 
